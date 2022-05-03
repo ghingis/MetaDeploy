@@ -13,7 +13,7 @@ Development
 -----------
 
 .. image:: https://www.herokucdn.com/deploy/button.svg
-     :target: https://heroku.com/deploy?template=https://github.com/SFDO-Tooling/MetaDeploy/tree/main
+     :target: https://heroku.com/deploy?template=https://github.com/ghingis/MetaDeploy/tree/main
 
      :alt: Deploy to Heroku
 
@@ -23,5 +23,5 @@ Got feedback?
 -------------
 
 Please open a new `GitHub Issue
-<https://github.com/SFDO-Tooling/MetaDeploy/issues>`_.
+<https://github.com/SFDO-Tooling/ghingis/issues>`_.
 
